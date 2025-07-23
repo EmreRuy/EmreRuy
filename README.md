@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Emre 👋</h1>
 <p align="center">Android Developer • Jetpack Compose Enthusiast • Product-Minded App Creator</p>
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.weather.wouple&utm_source=emea_Med" target="_blank">📱 NorthFlurry on Google Play</a> •
-  <a href="mailto:uyar.em.eu@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/emre-u-0b44b0264/"_blank">🔗 LinkedIn</a>
-</p>
-
 ### About Me
 
 I'm a passionate, self taught Android developer focused on crafting high-quality mobile experiences using **Jetpack Compose**, modern architecture, and clean UI design.
