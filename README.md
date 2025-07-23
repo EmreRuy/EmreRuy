@@ -15,30 +15,15 @@ I'm a passionate, self taught Android developer focused on crafting high-quality
 - Building: **Pattern** – a modern habit tracker to help users stay consistent
 - Releasing soon: Major **update for NorthFlurry** with UI upgrades and performance improvements
 - Passionate about: elegant UI/UX, meaningful animations, and solving real world problems
-
-
-
+  
 ### Tech Stack
-
-#### Languages & Frameworks  
-- Kotlin, Jetpack Compose, XML
-
-#### Tools  
-- Android SDK, Android Studio, Gradle
-
-#### Architecture  
-- MVVM, Jetpack Navigation, Dagger/Hilt
-
-#### APIs & Databases  
-- Retrofit, Gson, REST APIs, Room (learning)
-
-#### UI / UX  
-- Material Design, Compose Previews, Lottie Animations
-
-#### Other  
-- Git, GitHub, Trello, AdMob, Google Play Console
-
-
+- **Languages & Frameworks:** Kotlin, Jetpack Compose, XML  
+- **Tools:** Android SDK, Android Studio, Gradle  
+- **Architecture:** MVVM, Jetpack Navigation, Dagger/Hilt  
+- **APIs & Databases:** Retrofit, Gson, REST APIs, Room *(learning)*  
+- **UI/UX:** Material Design, Compose Previews, Lottie Animations  
+- **Other:** Git, GitHub, Trello, AdMob, Google Play Console
+  
 ### Featured Projects
 
 #### [NorthFlurry](https://github.com/EmreRuy/NorthFlurry)  
@@ -54,9 +39,7 @@ Built with MVVM, Compose, and modern Android architecture.
 An exercise-based Android app designed to help users improve their posture.  
 I contributed to UI refinements, Api call for affirmations with retrofit.
 
-
 ### GitHub Activity
-
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=EmreRuy&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats" />
 </p>
