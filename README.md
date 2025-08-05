@@ -47,5 +47,5 @@ I contributed to UI refinements, Api call for affirmations with retrofit.
 
 ### Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/emre-u-0b44b0264/)
+- [LinkedIn](https://www.linkedin.com/in/emre-mobiledev/)
 - Email: [uyar.em.eu@gmail.com]
