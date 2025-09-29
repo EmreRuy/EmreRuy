@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Emre 👋</h1>
-<p align="center">Android Developer • Jetpack Compose Enthusiast • Product-Minded App Creator</p>
+<p align="center">Android Developer • Jetpack Compose Enthusiast • App Creator</p>
 
 ### About Me
 
-I'm a passionate, self taught Android developer focused on crafting high-quality mobile experiences using **Jetpack Compose**, modern architecture, and clean UI design.
+I'm a passionate, self taught Android developer focused on crafting high quality mobile experiences using **Jetpack Compose**, modern architecture, and clean UI design.
 
 - Published: **[NorthFlurry](https://play.google.com/store/apps/details?id=com.weather.wouple&utm_source=emea_Med)** – a real-time weather app with multilingual support and animated charts
 - Building: **Pattern** – a modern habit tracker to help users stay consistent
@@ -22,7 +22,7 @@ I'm a passionate, self taught Android developer focused on crafting high-quality
 
 #### [NorthFlurry](https://github.com/EmreRuy/NorthFlurry)  
 A polished weather app powered by Open-Meteo and built with kotlin and Jetpack Compose.  
-Real-time weather, animated UV index, precipitation charts, and localized support.  
+Real time weather, animated UV index, precipitation charts, and localized support.  
 **[Download on Google Play](https://play.google.com/store/apps/details?id=com.weather.wouple&utm_source=emea_Med)**
 
 #### [Pattern](https://github.com/EmreRuy/Pattern) *(In Progress)*  
@@ -30,7 +30,7 @@ A clean and minimal habit tracker app focused on helping users build consistency
 Built with MVVM, Compose, and modern Android architecture.
 
 #### [Posture](https://github.com/IdaRiseng/Posture) *(Contributor)*  
-An exercise-based Android app designed to help users improve their posture.  
+An exercise based Android app designed to help users improve their posture.  
 I contributed to UI refinements, Api call for affirmations with retrofit.
 **[Download on Google Play](https://play.google.com/store/apps/details?id=no.sporty.posture)**
 
