@@ -34,17 +34,6 @@ An exercise-based Android app designed to help users improve their posture.
 I contributed to UI refinements, Api call for affirmations with retrofit.
 **[Download on Google Play](https://play.google.com/store/apps/details?id=no.sporty.posture)**
 
-### GitHub Activity
-<div align="start">
-<a href="https://github.com/EmreRuy">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=EmreRuy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/EmreRuy">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreRuy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-</div>
-
 ### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/emre-mobiledev/)
