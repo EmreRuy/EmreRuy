@@ -14,7 +14,7 @@ I'm a passionate, self taught Android developer focused on crafting high quality
 - **Languages & Frameworks:** Kotlin, Jetpack Compose, XML  
 - **Tools:** Android SDK, Android Studio, Gradle  
 - **Architecture:** MVVM, Jetpack Navigation, Dagger/Hilt  
-- **APIs & Databases:** Retrofit, Gson, REST APIs, Room *(learning)*  
+- **APIs & Databases:** Retrofit, Gson, REST APIs, Room  
 - **UI/UX:** Material Design, Compose Previews, Lottie Animations  
 - **Other:** Git, GitHub, Trello, AdMob, Google Play Console
   
